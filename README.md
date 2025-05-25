@@ -1,2 +1,3 @@
 # UcakSistemi
 mehmet akif ayrılmaz github depo 20230108043
+PROJEMDE basit bir uçak bilet sitemi gerçekleştirdim başta bize 2 seçenek veriyor yolcu yada firma girişi,biz ya firma yetkilisi yada yolcu olarak devam edebiliyoruz burdan sonra sı seçtiğimiz seçeneğe göre dallanıyor basitçe firma seçersek bize önce kullanıcı adı ve şifre soruyor(kullanıcı adı:admin,şifre:admin) şifreyi doğru girdiğimiz halde biz sefer oluşturma bilet iptali gibi gibi seçenekler sunuluyor burdan uçağımızın seferini oluşturuyoruz bilgileri girdikten sonra kaydettiğimiz halde sistem güncelleniyor ve müşteri yerinden girdiğimiz zaman düşen biletleri liste şeklinde görüp seçim yapabiliyoruz aldığımız bilet sistemden dolu olarak düşüyor basitçe sistem bu şekilde işliyor.
